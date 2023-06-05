@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter Development**
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Android Development,Web Development**
 
 - 📫 How to reach me **sayakpaul48@gmail.com**
 
